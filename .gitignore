@@ -1,0 +1,4 @@
+/star_rail/dataset/*
+/star_rail/test/*
+/star_rail/train/*
+/star_rail/val/*
