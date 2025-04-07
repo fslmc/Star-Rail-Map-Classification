@@ -9,7 +9,7 @@ A CNN model that classifies game map areas from Honkai Star Rail into three cate
 - Inference script for single/batch predictions
 
 ## Result
-The model has 87\9.78% Accuracy
+The model has 89.78% Accuracy
 
 ## Requirements
 - Python 3.8+
