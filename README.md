@@ -8,6 +8,9 @@ A CNN model that classifies game map areas from Honkai Star Rail into three cate
 - Training with callbacks (early stopping, model checkpointing)
 - Inference script for single/batch predictions
 
+## Result
+The model has 87\9.78% Accuracy
+
 ## Requirements
 - Python 3.8+
 - See [requirements.txt](requirements.txt)
