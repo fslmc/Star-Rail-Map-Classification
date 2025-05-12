@@ -9,14 +9,14 @@ A CNN model that classifies game map areas from Honkai Star Rail into three cate
 - Inference script for single/batch predictions
 
 ## Result
-The model has 89.78% Accuracy
+The model has 89.78% Accuracy on test set
 
 ## Requirements
 - Python 3.8+
 - See [requirements.txt](requirements.txt)
 
-## Installation
+## Clone
 ```bash
-git clone https://github.com/yourusername/hsr-map-classifier.git
+git clone https://github.com/fslmc/hsr-map-classifier.git
 cd hsr-map-classifier
 pip install -r requirements.txt
